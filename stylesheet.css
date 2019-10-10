@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1340px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),url( lionn.jpg);
+  background-size:100% 100%;
+  
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 1;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+header {
+  height: 100px;
+  width: 100%;
+  background-color: rgba(226, 99, 19, 0.8);
+
+}
+
+.logo {
+  width: 150px;
+  margin-top: 0px; 
+
+}
+.logo img{padding-left
+
+}
+.header-left {
+  float: left; 
+
+
+  /* Change the transition property */
+  transition :all 0.5s;
+}
+
+.About:hover ,.login:hover {
+  background-color: rgba(200, 90, 6, 0.5);
+}
+.header-right {
+	float:right;
+}
+/* Add CSS for <a> tags inside header-right */
+.header-right a{
+line-height: 65px;
+padding-left: 25px;
+padding-right: 25px;
+color: black ;
+ display:block; float:right;
+
+
+}
+.header-right li{
+  list-style:none;
+  float:right;font-family: Algerian;
+  padding:0px 50px; font-size: 18px;
+  float:right;
+
+  
+}
+.header-right ul li a{
+
+	 
+  
+}
